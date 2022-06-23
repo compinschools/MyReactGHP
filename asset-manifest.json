@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyReactGHP/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/MyReactGHP/static/js/main.d406349f.chunk.js",
+    "main.js.map": "/MyReactGHP/static/js/main.d406349f.chunk.js.map",
+    "runtime-main.js": "/MyReactGHP/static/js/runtime-main.31d535c6.js",
+    "runtime-main.js.map": "/MyReactGHP/static/js/runtime-main.31d535c6.js.map",
+    "static/js/2.4294d90b.chunk.js": "/MyReactGHP/static/js/2.4294d90b.chunk.js",
+    "static/js/2.4294d90b.chunk.js.map": "/MyReactGHP/static/js/2.4294d90b.chunk.js.map",
+    "index.html": "/MyReactGHP/index.html",
+    "precache-manifest.97d5f69ab7903f71485c283393b8b300.js": "/MyReactGHP/precache-manifest.97d5f69ab7903f71485c283393b8b300.js",
+    "service-worker.js": "/MyReactGHP/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/MyReactGHP/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4294d90b.chunk.js.LICENSE.txt": "/MyReactGHP/static/js/2.4294d90b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31d535c6.js",
+    "static/js/2.4294d90b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d406349f.chunk.js"
+  ]
+}
